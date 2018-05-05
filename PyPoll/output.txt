@@ -1,0 +1,7 @@
+Vestal, 48.00%
+Torres, 44.00%
+Seth, 5.00%
+Cordin, 3.00%
+Vestal is the winner.
+{'Vestal': 385440, 'Torres': 353320, 'Seth': 40150, 'Cordin': 24090}
+803000

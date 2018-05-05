@@ -1,0 +1,6 @@
+803000 is the total number of votes.
+Vestal: 48.00%, (385440)
+Torres: 44.00%, (353320)
+Seth: 5.00%, (40150)
+Cordin: 3.00%, (24090)
+Vestal is the winner.
